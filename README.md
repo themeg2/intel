@@ -1,5 +1,5 @@
-#⭐ inter Use the Git ⭐
-##❓ Git prompt basic (branch make & del & switch) ❓
+# ⭐ inter Use the Git ⭐
+## ❓ Git prompt basic (branch make & del & switch) ❓
 ## Git is tree's develop other version managements, help system. one tree's go to branch imagenation   
 ## What use the Git branch?   
 ## master branch use don't touch basic version. new system develop and test, make a tree.   
