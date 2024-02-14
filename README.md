@@ -18,19 +18,19 @@
 12. git show HEAD (HEAD's commit) 
 13. git show HEAD~5 (HEAD before 5 commit) 
 
-## git make clone ⌨️
+## Git make clone ⌨️
 01. git clone (http or folder)
 02. git clone example/ exampleA <- example folder clone to exampleA folder
 03. git init --bare (git init initializing)
 
-## git make commit ⌨️
+## Git make commit ⌨️
 01. git add (file name)
 02. git commit -m "premier"
 
-## git push ⌨️
+## Git push ⌨️
 01. git push (git push)
 
-## Switch the branch to master ⌨️
+## Git switch the branch to master ⌨️
 01. git checkout master
 02. git log --oneline
 03. git merge developerA_branch
