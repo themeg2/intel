@@ -1,4 +1,4 @@
-# inter
+# inter Use the Git
 ## Git prompt basic (branch make & del & switch)   
 ## Git is tree's develop other version managements, help system. one tree's go to branch imagenation   
 ## What use the Git branch?   
