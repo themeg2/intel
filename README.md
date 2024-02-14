@@ -33,3 +33,7 @@
 ## Switch the branch to master
 01. git checkout master
 02. git log --oneline
+03. git merge developerA_branch
+04. git push
+05. git log --oneline
+06. git pull
