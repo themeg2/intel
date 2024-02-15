@@ -26,6 +26,7 @@
 ## Git make commit ⌨️
 01. git add (file name)
 02. git commit -m "premier"
+03. git add --i
 
 ## Git push ⌨️
 01. git push (git push)
